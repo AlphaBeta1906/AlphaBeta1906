@@ -1,8 +1,8 @@
 ## Hello my name  salman
-##### Description about yourself
+> I'm a web developer
 ### About me 
  --- 
- tell about yourself...
+ I'm a college student who also a freelance web developer with two years of experience. I'm mostly focus in backend development, but sometimes i also do front end or fullstack development.I'm eager to learn and explore new things on technology like machine learning or data science.Feel free for contact me if you interested for working together 
 
 
 ### Technology i use
